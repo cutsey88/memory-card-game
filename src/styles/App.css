@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+}
+
+#root {
+    height: inherit;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    background-color: #109ceb;
+    color: #f5fbfe;
+    height: inherit;
+}

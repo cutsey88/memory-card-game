@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import '../styles/content.css'
 import Card from './card';
 import gotfImage from '../images/grave-of-the-fireflies.jpg';
 import howlsImage from '../images/howls.jpeg';
@@ -67,8 +68,8 @@ function Content() {
     return (
         <div className="content">
             <div className="scores">
-                <p className="currentScore">{score}</p>
-                <p className="bestScore">{bestScore}</p>
+                <p className="currentScore">Current Score: {score}</p>
+                <p className="bestScore">Best Score: {bestScore}</p>
             </div>
             <div className="cardBox">
                 {cardDeck.map((card) => {

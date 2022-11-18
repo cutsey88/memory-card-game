@@ -1,0 +1,22 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.scores {
+    display: flex;
+    gap: 20px;
+    padding: 10px 0px;
+}
+
+.cardBox {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(236px, 2fr));
+    gap: 20px;
+    justify-items: center;
+    padding: 20px;
+    width: 90%;
+    background-color: #194590;
+    border-radius: 20px;
+}

@@ -1,7 +1,15 @@
 .card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    flex-grow: 0;
     width: 200px;
+    height: 350px;
     padding: 10px;
-    background-color: darksalmon;
+    border-radius: 10px;
+    background-color: #e27155;
 }
 
 img {
