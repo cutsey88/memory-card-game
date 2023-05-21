@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/memory-card-game/static/css/main.9d848ca1.css",
+    "main.js": "/memory-card-game/static/js/main.246a3d8e.js",
+    "static/media/whisper-of-the-heart.jpeg": "/memory-card-game/static/media/whisper-of-the-heart.757eab7c08b6c29f2ac8.jpeg",
+    "static/media/nausicaa.jpeg": "/memory-card-game/static/media/nausicaa.3d49ffed71220b0b7a57.jpeg",
+    "static/media/kaguya.jpeg": "/memory-card-game/static/media/kaguya.2061bcd947399e10eb47.jpeg",
+    "static/media/princess-mononoke.png": "/memory-card-game/static/media/princess-mononoke.7b3aafe96eeeeec1355f.png",
+    "static/media/ponyo.jpeg": "/memory-card-game/static/media/ponyo.a7a57fe512016f5eea51.jpeg",
+    "static/media/totoro.jpg": "/memory-card-game/static/media/totoro.44010ac701a72a2c97a8.jpg",
+    "static/media/grave-of-the-fireflies.jpg": "/memory-card-game/static/media/grave-of-the-fireflies.8fec22c3c9a967f12a21.jpg",
+    "static/media/marnie.jpeg": "/memory-card-game/static/media/marnie.62c216b532f4702c6121.jpeg",
+    "static/media/howls.jpeg": "/memory-card-game/static/media/howls.343341460d4c04285ef1.jpeg",
+    "static/media/the-wind-rises.jpeg": "/memory-card-game/static/media/the-wind-rises.ea458b76f6f0eb03c69c.jpeg",
+    "static/media/kiki.jpeg": "/memory-card-game/static/media/kiki.212ca6711db008891d69.jpeg",
+    "static/media/spirited-away.jpeg": "/memory-card-game/static/media/spirited-away.588e448f8520d101021c.jpeg",
+    "index.html": "/memory-card-game/index.html",
+    "main.9d848ca1.css.map": "/memory-card-game/static/css/main.9d848ca1.css.map",
+    "main.246a3d8e.js.map": "/memory-card-game/static/js/main.246a3d8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d848ca1.css",
+    "static/js/main.246a3d8e.js"
+  ]
+}
