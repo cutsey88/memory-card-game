@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/memory-card-game/static/css/main.9d848ca1.css",
+    "main.css": "/memory-card-game/static/css/main.08acb9cf.css",
     "main.js": "/memory-card-game/static/js/main.246a3d8e.js",
     "static/media/whisper-of-the-heart.jpeg": "/memory-card-game/static/media/whisper-of-the-heart.757eab7c08b6c29f2ac8.jpeg",
     "static/media/nausicaa.jpeg": "/memory-card-game/static/media/nausicaa.3d49ffed71220b0b7a57.jpeg",
@@ -15,11 +15,11 @@
     "static/media/kiki.jpeg": "/memory-card-game/static/media/kiki.212ca6711db008891d69.jpeg",
     "static/media/spirited-away.jpeg": "/memory-card-game/static/media/spirited-away.588e448f8520d101021c.jpeg",
     "index.html": "/memory-card-game/index.html",
-    "main.9d848ca1.css.map": "/memory-card-game/static/css/main.9d848ca1.css.map",
+    "main.08acb9cf.css.map": "/memory-card-game/static/css/main.08acb9cf.css.map",
     "main.246a3d8e.js.map": "/memory-card-game/static/js/main.246a3d8e.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d848ca1.css",
+    "static/css/main.08acb9cf.css",
     "static/js/main.246a3d8e.js"
   ]
 }
